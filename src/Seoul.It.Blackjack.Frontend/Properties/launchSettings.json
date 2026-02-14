@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Seoul.It.Blackjack.Frontend": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:22528;http://localhost:22529"
+    }
+  }
+}
